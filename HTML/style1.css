@@ -25,14 +25,13 @@ body {
 
 .lucky {
   text-align: center;
+  font-size: 40px !important;
   border-top: 100px;
   padding-top: 25px;
   color: forestgreen;
-  
 }
 
 .btn {
-    padding: 5px;
-    align-content: space-around;
-    
+  padding: 5px;
+  align-content: space-around;
 }
